@@ -1,2 +1,2 @@
 # Monsters-Rolodex
-Make when learning React from ZTM
+Made when learning React from ZTM
